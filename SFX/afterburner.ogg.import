@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/afterburner.ogg-31dad3f469cdd19d88aad0e87440e442.oggstr"
+
+[deps]
+
+source_file="res://SFX/afterburner.ogg"
+dest_files=[ "res://.import/afterburner.ogg-31dad3f469cdd19d88aad0e87440e442.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
